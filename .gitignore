@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.antigravity
+.gemini
+package-lock.json
+*.log
